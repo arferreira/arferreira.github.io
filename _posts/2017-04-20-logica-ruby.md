@@ -228,4 +228,6 @@ end
 
 > Basta ir ao terminal e executar o arquivo.: $: ruby maior_menor.rb
 
+Jogo maior_menor no Github: https://github.com/arferreira/maior_ou_menor
+
 Espero que este post ajude alguém como me ajudou ao iniciar com ruby e estudar novamente a sintaxe da linguagem e os seus conceitos. É isso ai e até a próxima.
