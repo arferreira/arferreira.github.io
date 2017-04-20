@@ -3,7 +3,7 @@ layout: post
 title: Um pouco de lógica com Ruby
 ---
 Hoje vou falar um pouco de lógica com Ruby codando um pequeno jogo de adivinhação.
-Há algum tempo quando retornei a estudar Ruby puramente falando encontrei este exemplo em um livro muito bacana da Casa do Código, achei bem interessante para iniciar os posts aqui do blog com este artigo, principalmente para quem busca iniciar na linguagem, acredito que antes de visualizar nosso querido framework Rails, devemos nos dedicar muito com Ruby.
+Há algum tempo quando retornei a estudar Ruby puramente falando, encontrei este exemplo em um livro muito bacana da Casa do Código, achei bem interessante para iniciar os posts aqui do blog com este artigo, principalmente para quem busca iniciar na linguagem, acredito que antes de visualizar nosso querido framework Rails, devemos nos dedicar muito com Ruby.
 Irei partir do princípio de que quem chegou aqui já possui o Ruby instalado. Qualquer dúvida basta entrar em contato comigo por algum dos canais expostos aqui no blog.
 
 Inicialmente o código irá escolher um número aleatório e o usuário deverá adivinha-lo em 10 chances.
