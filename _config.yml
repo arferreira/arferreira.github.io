@@ -1,43 +1,43 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://arferreira.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
+  title: Antonio Ricardo
+  avatar: 3926244.jpeg
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Code, Ruby and More {Things}" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Um pouco de lógica e código, e você já não está mais no mesmo lugar.</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Ruby <code><%= puts "on" %></code> Rails.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   Ruby Developer<a href="http://about.me/antonioricardo">Antonio Ricardo</a> 2017
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "antonioricardoarfs@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "arferreira"
   google_plus:
-  instagram:
-  linkedin:  # Full URL
+  instagram: "antonioricardof"
+  linkedin:  "https://www.linkedin.com/in/antonioricardof/"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "antonioricardof"
   wordpress:
   youtube:
 
@@ -51,9 +51,9 @@ theme_settings:
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
+  str_next: "Próximo"
+  str_prev: "Anterior"
+  str_continue_reading: "Continue lendo"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
